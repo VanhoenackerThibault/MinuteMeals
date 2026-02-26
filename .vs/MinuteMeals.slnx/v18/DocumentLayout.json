@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|c:\\users\\thiba\\documents\\vives\\kwartaal3\\programming advanced architectures\\minutemeals\\minutemeals.ui.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|solutionrelative:minutemeals.ui.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|c:\\users\\thiba\\documents\\vives\\kwartaal3\\programming advanced architectures\\minutemeals\\minutemeals.ui.mvc\\core\\recipetmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|solutionrelative:minutemeals.ui.mvc\\core\\recipetmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|c:\\users\\thiba\\documents\\vives\\kwartaal3\\programming advanced architectures\\minutemeals\\minutemeals.ui.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|solutionrelative:minutemeals.ui.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|c:\\users\\thiba\\documents\\vives\\kwartaal3\\programming advanced architectures\\minutemeals\\minutemeals.ui.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|solutionrelative:minutemeals.ui.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|c:\\users\\thiba\\documents\\vives\\kwartaal3\\programming advanced architectures\\minutemeals\\minutemeals.ui.mvc\\core\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C66118-986B-B69C-2C36-F3C7804F00F3}|MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj|solutionrelative:minutemeals.ui.mvc\\core\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MinuteMeals.UI.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MinuteMeals.UI.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:26:06.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipetManagerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Core\\RecipetManagerDbContext.cs",
+              "RelativeDocumentMoniker": "MinuteMeals.UI.Mvc\\Core\\RecipetManagerDbContext.cs",
+              "ToolTip": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Core\\RecipetManagerDbContext.cs",
+              "RelativeToolTip": "MinuteMeals.UI.Mvc\\Core\\RecipetManagerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:16:27.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "MinuteMeals.UI.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Program.cs",
+              "RelativeToolTip": "MinuteMeals.UI.Mvc\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:12:53.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MinuteMeals.UI.Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MinuteMeals.UI.Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T02:12:05.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Core\\Recipe.cs",
+              "RelativeDocumentMoniker": "MinuteMeals.UI.Mvc\\Core\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\Core\\Recipe.cs",
+              "RelativeToolTip": "MinuteMeals.UI.Mvc\\Core\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:37:28.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

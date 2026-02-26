@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGYeqzWRRlY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiba\\Documents\\Vives\\Kwartaal3\\Programming Advanced Architectures\\MinuteMeals\\MinuteMeals.UI.Mvc\\MinuteMeals.UI.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiba\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.3\\microsoft.entityframeworkcore.10.0.3.nupkg.sha512",
+    "C:\\Users\\Thiba\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.3\\microsoft.entityframeworkcore.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\Thiba\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.3\\microsoft.entityframeworkcore.analyzers.10.0.3.nupkg.sha512",
+    "C:\\Users\\Thiba\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.3\\microsoft.entityframeworkcore.inmemory.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
